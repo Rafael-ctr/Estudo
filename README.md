@@ -1,1 +1,1 @@
-Repositorio destivado aos execercios da liguagem java
+Repositorio destinado aos execercios da liguagem java
